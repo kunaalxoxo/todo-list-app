@@ -51,14 +51,12 @@ A full-stack to-do list application with task management, filtering, and due dat
 ## Project Structure
 ```
 todo-app/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── tasks.json (created automatically)
-└── frontend/
-    ├── index.html
-    ├── style.css
-    └── app.js
+   ├── server.js
+   ├── package.json
+   ├── tasks.json (created automatically)
+   ├── index.html
+   ├── style.css
+   ├── app.js
 ```
 
 ## Future Enhancements
